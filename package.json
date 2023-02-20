@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jewala/JavaScript/issues"
   },
-  "homepage": "https://github.com/jewala/JavaScript#readme"
+  "homepage": "https://github.com/jewala/JavaScript#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
 }
