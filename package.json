@@ -2,22 +2,13 @@
   "name": "javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "basics.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jewala/JavaScript.git"
-  },
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jewala/JavaScript/issues"
-  },
-  "homepage": "https://github.com/jewala/JavaScript#readme",
-  "dependencies": {
-    "chai": "^4.3.7",
-    "mocha": "^10.2.0"
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.12"
   }
 }
